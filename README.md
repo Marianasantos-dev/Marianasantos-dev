@@ -115,20 +115,6 @@ O projeto transforma grandes volumes de dados operacionais em informações mais
 
 ---
 
-## 🐰 FatBunny
-
-Projeto desenvolvido em **Python utilizando Pygame**, criado para colocar em prática conceitos de programação fora do contexto de análise de dados.
-
-O projeto envolve lógica de programação, interação com o usuário, eventos e construção da estrutura de um jogo.
-
-**Tecnologias**
-
-`Python` `Pygame` `Lógica de Programação`
-
-> 🚧 Repositório em preparação.
-
----
-
 # 🌱 O que estou estudando
 
 Atualmente estou expandindo meus conhecimentos para construir aplicações cada vez mais completas.
