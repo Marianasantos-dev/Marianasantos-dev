@@ -195,7 +195,7 @@ Estou construindo minha trajetória em desenvolvimento e compartilhando por aqui
 
 <p align="center">
 
-<a href="(https://www.linkedin.com/in/mariana-santos-a712822b8?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
+<a href="https://www.linkedin.com/in/mariana-santos-a712822b8?utm_source=share_via&utm_content=profile&utm_medium=member_android">
   <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
